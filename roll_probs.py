@@ -7,6 +7,8 @@ import sys
 out = pd.read_csv('roll_probability_data_n10000.csv')
 out2  = pd.read_csv('roll_probability_data_n1000.csv')
 
+
+
 # sys.exit()
 
 # prob to get X or more points during a turn
